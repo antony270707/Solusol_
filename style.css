@@ -1,0 +1,104 @@
+a {
+    color: rgb(29, 161, 29);
+    text-decoration: none;
+}
+
+.topo {
+    display: flex;
+    justify-content: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+.item_topo {
+    margin-left: 1em;
+    font-family: rubik;
+    color: #29AB7A;
+}
+
+.title {
+    color: rgb(29, 161, 29);
+    font-family: rubik;
+    margin-left: 1.5em;
+    margin-top: 1.75cm;
+    font-size: 45px;
+}
+
+.meio {
+    list-style-type: none;
+    display: flex;
+    justify-content: right;
+    margin-right: 28px;
+    margin-top: -1.5cm;
+}
+
+.item__meio {
+    margin-left: 1em;
+    font-family: rubik;
+    font-weight: 100;
+    font-size: 16px;
+}
+
+.tres {
+    display: flex;
+    justify-content: center;    
+}
+
+.item {
+    list-style-type: none;
+    font-family: rubik;
+    font-size: 18px;
+    font-weight: 100;
+    margin-left: 1em;
+}
+
+.introducao {
+    font-family: inter;
+    margin-left: 1.5em;
+}
+
+.resumo {
+    font-family: inter;
+    margin-left: 55em;
+    margin-top: -7em;
+    font-size: 23px;
+    font-weight: 300;
+}
+
+.img {
+    margin-top: 5em;
+    margin-left: 17em;
+}
+
+.somos {
+    font-family: inter;
+    text-align: center;
+    margin-left: 10em;
+    margin-right: 10em;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.video {
+    width: 100%;
+    height: 500px;
+    margin-top: 1.8em;
+}
+
+.topicos {
+    font-family: inter;
+    color: rgb(29, 161, 29);
+    font-size: 28px;
+    margin-left: 3em;
+    margin-top: 2.5em;
+    text-align: center;
+}
+
+.texto {
+    font-family: inter;
+    text-align: center;
+    margin-left: 10em;
+    margin-right: 10em;
+    font-size: 20px;
+    font-weight: 300;
+}
